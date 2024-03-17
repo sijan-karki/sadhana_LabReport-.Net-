@@ -35,7 +35,7 @@ namespace Lab_Report_SadhanaKhadka
                 c1 = new ApexCollege();
                 c1.Affileted();
                 c1.FacultyMember();
-                Console.WriteLine("\n Lab NO :5");
+                Console.WriteLine("\n Lab NO :7'b'");
                 Console.WriteLine(" Name : Sadhana Khadka");
                 Console.WriteLine(" Roll No:20");
         }
