@@ -5,6 +5,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Lab_Report_SadhanaKhadka.LinqDemo</StartupObject>
+	  <StartupObject>Lab_Report_SadhanaKhadka.TestProgram</StartupObject>
   </PropertyGroup>
 </Project>
